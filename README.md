@@ -22,4 +22,4 @@
 
 ![image](https://user-images.githubusercontent.com/73049070/230196626-4210aece-e3ff-4f47-9db1-0d5e16c89c67.png)
 
-![Uploading image.png…]()
+只展示了部分页面和功能！
